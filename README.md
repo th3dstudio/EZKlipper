@@ -34,3 +34,6 @@ Our TH3D Discord server is a great place to get free help with Klipper in genera
 ## Setting up your SBC ##
 
 For setting up your SBC we recommend [KIAUH](https://github.com/th33xitus/kiauh) to set it up on a standard Linux installation.
+
+## DISCLAIMER ##
+**Files and Information are provided AS-IS with no support or guarantee from TH3D Studio LLC.**
