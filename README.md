@@ -6,9 +6,9 @@ This is a repo for things to make setting up Klipper EZ for end users. This is w
 
 [Klipper](https://github.com/Klipper3d/klipper) is an advanced, tweaking firmware that is complex to setup and use (when compared to Marlin/Unified 2). You are welcome to use whatever firmware you wish on our boards but we only support our Unified 2 Firmware on them when it comes to what our included Technical Support covers at no cost due to the complexity of Klipper and the stack of software required to use it.
 
-## Config File Organization ##
+## Printer Specific Config File Organization ##
 
-Every config file(s) must be in the following organization structure:
+Every config file(s) must be in the following organization structure in the `Configs` folder.
 
 
     BRAND > MODEL> CONFIG TYPE
@@ -22,6 +22,12 @@ If we had a custom one that lets say Tim made it would be like  this:
 
 
     Creality > Ender 3 V3 KE > Tims Config
+
+## General Board Config Files ##
+
+Every config file(s) must be in the following organization structure in the `Configs` folder.
+
+    Board Specific > BOARD NAME > FILES
 
 ## Paid Klipper Support ##
 
